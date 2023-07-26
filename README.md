@@ -1,5 +1,6 @@
 # hexo-asset-image
 
+一个hexo处理图片路径问题的仓库备份，使用的时候，用下面的npm install安装命令安装。
 
 Give asset image in hexo a absolutely path automatically
 
